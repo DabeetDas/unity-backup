@@ -146,9 +146,9 @@ const embed = new Discord.RichEmbed()
     .setFooter(" Developed by Unity Staff " ,"https://i.imgur.com/heroxyY.png"); 
 	   
 	   
-let channel1 = message.channel 
+let channel69 = message.channel 
 
-channel1.send(embed);
+channel69.send(embed);
 
 
 }
